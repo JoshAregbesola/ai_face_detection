@@ -15,7 +15,7 @@ It uses a pre-trained XML model provided by the official OpenCV project.
 git clone (https://github.com/JoshAregbesola/ai_face_detection.git)
 cd ai_face_detection/face_detect 
 
-2. A For macOS / Linux:
+3. A For macOS / Linux:
 python3 -m venv venv
 source venv/bin/activate
 
