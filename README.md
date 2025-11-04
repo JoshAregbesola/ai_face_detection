@@ -12,7 +12,7 @@ It uses a pre-trained XML model provided by the official OpenCV project.
 
 # Setup Steps
 1. Clone my repository
-git clone https://github.com/YOUR_USERNAME/ai_face_detection.git
+git clone (https://github.com/JoshAregbesola/ai_face_detection.git)
 cd ai_face_detection/face_detect 
 
 2. A For macOS / Linux:
